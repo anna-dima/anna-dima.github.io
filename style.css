@@ -39,13 +39,12 @@ navbar{
 }
 @media (min-width:701px){
     .main{
-        background:url("./upexec-105.jpg") no-repeat  center center;
+        background:transparent url("./profileinvisible.png") no-repeat  center center;
         background-size:contain;
         background-position:right;
         margin: 50px;
-        background-repeat: no-repeat;
-      
         max-width: 1667px;
+        background-color: #BBBABA;
         
     }
 }
